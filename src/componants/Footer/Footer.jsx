@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="flexColStart f-left">
           <img src="./logo2.png" alt="" srcset="" width={120} />
           <span className="secondaryText">
-            Lorem ipsum dolor sit amet consectetur.
+            one stop for all your home needs
           </span>
         </div>
 
